@@ -5,3 +5,4 @@ elif -5 <= a <= 5:
     print('Mid')
 else:
     print('High')
+
