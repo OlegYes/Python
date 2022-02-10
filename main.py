@@ -1,3 +1,5 @@
-x = -0
-y = bool(x)
-print (y)
+print(3 + 4)
+print(3 * 5)
+print(3 ** 2)
+name = input("Как Вас зовут? ")
+print("Привет,", name)
